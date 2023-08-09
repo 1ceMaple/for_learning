@@ -1,2 +1,3 @@
 first input
 new line
+another line
